@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Abhijith
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">,I am Abhijith.
 
 <a href="https://www.linkedin.com/in/abhijith-hegde-41b2931a1/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />

@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/abhijith__hegde/">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
-
+[![An image of @abhijithhegde21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijithhegde21)](https://holopin.io/@abhijithhegde21)
 <br />
 <br />
 

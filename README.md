@@ -1,10 +1,28 @@
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div style="display: flex; justify-content: center; align-items: center; overflow: hidden; height: 200px; width: 100%; background: black;">
+  <img src="./assets/city-night.png" alt="city-night" style="width: 100%; height: 100%; object-fit: cover; object-position: center;" />
 </div>
 
 ###
 
-<p align="left">Hello World!!</p>
+<img 
+  align="right" 
+  src="./assets/night.gif" 
+  alt="night" 
+  style="width: 250px; height: 450px; object-fit: contain;" 
+/>
+
+###
+
+# Hi, I'm Abhijith Hegde 👋
+
+Welcome to my *extensive* collection of code! I’m a self-proclaimed "Developer" who spends more time Googling error messages than actually writing code. My goal is to build *innovative* and *efficient* solutions — at least, that’s what I tell myself while I’m debugging...
+
+##  About Me
+- 🌱 I build things that (hopefully) work. When I’m not glued to my screen, I’m probably pretending to understand the latest trends or binge-watching movies & series as a form of "research." Sometimes, the best way to *debug* is by binge-watching a season and calling it "productive."
+- 🔭 I’m currently working on a project related to NextJs
+- 💬 Ask me about anything related to **web development**!
+
+> "I’m not a magician, I just write code and hope it works." — Me, probably
 
 ###
 

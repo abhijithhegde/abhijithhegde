@@ -13,9 +13,7 @@
 />
 Welcome to my *extensive* collection of code! I’m a self-proclaimed "Developer" who spends more time Googling error messages than actually writing code. My goal is to build *innovative* and *efficient* solutions — at least, that’s what I tell myself while I’m debugging...
 
-
-
-<h2>About Me</h2>
+<p style="font-size: 20px; margin: 0; font-weight: 500;">About Me</p>
 
 - 🌱I build things that (hopefully) work. When I'm not glued to my screen, I'm probably pretending to understand the latest trends or binge-watching movies & series as a form of "research." Sometimes, the best way to *debug* is by binge-watching a season and calling it "productive."
 - 🔭I'm currently working on a project related to NextJs

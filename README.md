@@ -9,20 +9,20 @@
 ###
 
 <div align="left">
-  <a href="mailto:abhijithhegde21@gmail.com" style="text-decoration: none; outline: none;">
+  <a href="mailto:abhijithhegde21@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://x.com/Abhijith__Hegde" style="text-decoration: none; outline: none;">
+  <a href="https://x.com/Abhijith__Hegde">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <a href="https://t.me/abhijith_hegde" style="text-decoration: none; outline: none;">
+  <a href="https://t.me/abhijith_hegde">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
-  <a href="https://linkedin.com/in/abhijithhegde" style="text-decoration: none; outline: none;">
+  <a href="https://linkedin.com/in/abhijithhegde">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://discordapp.com/users/717456690575966208" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  <a href="https://discordapp.com/users/717456690575966208">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
@@ -91,7 +91,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abhijithhegde/abhijithhegde/output/snake.svg" alt="Snake animation" />
+<div align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijithhegde/abhijithhegde/output/snake.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijithhegde/abhijithhegde/output/github-snake.svg" />
+   <img src="https://raw.githubusercontent.com/abhijithhegde/abhijithhegde/output/snake.svg" alt="Snake animation" />
+  </picture>
+</div>
 
 ###
 

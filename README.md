@@ -4,19 +4,19 @@
 
 ###
 
-# Hi, I'm Abhijith Hegde 👋
+# Hi, I'm Abhijith Hegde <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 <img 
   align="right" 
   src="./assets/night.gif" 
   alt="night" 
   style="width: 250px; height: 350px; object-fit: contain;" 
 />
-Welcome to my *extensive* collection of code! I’m a self-proclaimed "Developer" who spends more time Googling error messages than actually writing code. My goal is to build *innovative* and *efficient* solutions — at least, that’s what I tell myself while I’m debugging...
+Welcome to my ***extensive*** collection of code! I’m a self-proclaimed **Developer** who spends more time Googling error messages than actually writing code. My goal is to build ***innovative*** and ***efficient*** solutions — at least, that’s what I tell myself while I’m debugging...
 
 <p style="font-size: 20px; margin: 0; font-weight: 500;">About Me</p>
 
-- 🌱I build things that (hopefully) work. When I'm not glued to my screen, I'm probably pretending to understand the latest trends or binge-watching movies & series as a form of "research." Sometimes, the best way to *debug* is by binge-watching a season and calling it "productive."
-- 🔭I'm currently working on a project related to NextJs
+- 🌱I build things that (hopefully) work. When I'm not glued to my screen, I'm probably pretending to understand the latest trends or binge-watching movies & series as a form of **research.** Sometimes, the best way to ***debug*** is by binge-watching a season and calling it **productive.**
+- 🔭I'm currently working on a project related to **NextJs**
 - 💬Ask me about anything related to **web development**!
 - "I'm not a magician, I just write code and hope it works." — Me, probably
 
